@@ -1447,23 +1447,3 @@ img.control-dark__media {
   .turnkey {
     background-image: url("../images/image43b.jpg");
   }
-
-/*pretier поставить в vscode (eslint?)
-______________________________________________
-Как в control__logo поднять боковые тире?
-
-доделать мастерок
-
-.button:hover {
-    border-color: transparent;
-}
-
-title
-line-height: 1.3
-margin: 0
-
-нельзя ограничивать высоту - проверить!
-а вертикальные отступы можно ограничивать
-
-perfect pixel для фигмы
-*/
