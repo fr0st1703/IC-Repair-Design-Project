@@ -996,7 +996,7 @@ img.control-dark__media {
   height: auto;
 }
 
-/*---------MOBILE-----------*/
+/*Для мобилки_for mobile*/
 
 @media screen and (max-width: 1199px) {
   .header-content {
@@ -1196,7 +1196,6 @@ img.control-dark__media {
     margin-top: 34px;
     font-size: 11px;
     line-height: 169.8%;
-    /* or 19px */
     color: #ffffff;
   }
 
@@ -1301,7 +1300,6 @@ img.control-dark__media {
     margin-left: 13px;
     font-size: 13px;
     line-height: 169.8%;
-    /* or 22px */
   }
 
   .repair__image-price {
@@ -1434,7 +1432,7 @@ img.control-dark__media {
   }
 }
 
-/*---------4К-----------*/
+/*Для широкоформата_for fullscreen*/
 
 @media screen and (min-width: 2559px) {
 
