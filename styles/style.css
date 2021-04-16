@@ -319,6 +319,7 @@ body * {
   background-color: rgba(255, 255, 255, 0.3);
   border-radius: 50%;
 <<<<<<< HEAD
+<<<<<<< HEAD
   cursor: pointer;
 }
 
@@ -363,12 +364,42 @@ body * {
 >>>>>>> d3268381c55e17c3876e25d8cf8b286c52664f7b
 .projects-list-nav::after {
   content: url("../svg/Group_8_4R.svg");
+=======
+>>>>>>> d3268381c55e17c3876e25d8cf8b286c52664f7b
   cursor: pointer;
   position: relative;
   bottom: -2px;
   margin-left: 30px;
 }
 
+<<<<<<< HEAD
+=======
+.projects-list-nav div:nth-child(2) {
+  margin-left: 18px;
+  margin-right: 18px;
+}
+
+.projects-list-nav div:hover {
+  background: #FFFFFF;
+}
+
+.projects-list-nav::before {
+  content: url("../svg/Group_8_4L.svg");
+  cursor: pointer;
+  position: relative;
+  bottom: -2px;
+  margin-right: 30px;
+}
+
+.projects-list-nav::after {
+  content: url("../svg/Group_8_4R.svg");
+  cursor: pointer;
+  position: relative;
+  bottom: -2px;
+  margin-left: 30px;
+}
+
+>>>>>>> d3268381c55e17c3876e25d8cf8b286c52664f7b
 
 
 
@@ -1496,7 +1527,11 @@ img.control-dark__media {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*---------4К-----------*/
+=======
+/*---------Широкоформат-----------*/
+>>>>>>> d3268381c55e17c3876e25d8cf8b286c52664f7b
 =======
 /*---------Широкоформат-----------*/
 >>>>>>> d3268381c55e17c3876e25d8cf8b286c52664f7b
