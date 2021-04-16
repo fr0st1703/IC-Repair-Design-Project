@@ -318,9 +318,31 @@ body * {
   height: 10px;
   background-color: rgba(255, 255, 255, 0.3);
   border-radius: 50%;
+<<<<<<< HEAD
   cursor: pointer;
 }
 
+.projects-list-nav div:nth-child(2) {
+  margin-left: 18px;
+  margin-right: 18px;
+}
+
+.projects-list-nav div:hover {
+  background: #FFFFFF;
+}
+
+.projects-list-nav::before {
+  content: url("../svg/Group_8_4L.svg");
+=======
+>>>>>>> d3268381c55e17c3876e25d8cf8b286c52664f7b
+  cursor: pointer;
+  position: relative;
+  bottom: -2px;
+  margin-right: 30px;
+}
+
+<<<<<<< HEAD
+=======
 .projects-list-nav div:nth-child(2) {
   margin-left: 18px;
   margin-right: 18px;
@@ -338,6 +360,7 @@ body * {
   margin-right: 30px;
 }
 
+>>>>>>> d3268381c55e17c3876e25d8cf8b286c52664f7b
 .projects-list-nav::after {
   content: url("../svg/Group_8_4R.svg");
   cursor: pointer;
@@ -1472,7 +1495,11 @@ img.control-dark__media {
   }
 }
 
+<<<<<<< HEAD
 /*---------4К-----------*/
+=======
+/*---------Широкоформат-----------*/
+>>>>>>> d3268381c55e17c3876e25d8cf8b286c52664f7b
 
 @media screen and (min-width: 2559px) {
 
